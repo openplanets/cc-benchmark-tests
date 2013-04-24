@@ -41,10 +41,17 @@ The data is a CSV file, each record consists of five fields:
 4. time in milliseconds taken to perform Tika identification
 5. boolean OK/FAIL indicating whether Tika successfully identified the file type
 
-Copyright
----------
+Copyright & License
+-------------------
 
 All content and data are © 2013 [Scape Project](http://www.scape-project.eu/) and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB).
+
+Open Data
+---------
+
+All data in this dataset is released at Open Data. It is available freely for anyone to use, re-use and re-distribute subject only to the requirements set out in the license. These requirements stipulate that you must attribute our data in your work AND share the resulting works under a similar license. 
+
+This dataset has been self assessed to be of "3-Star" quality (see [5 Star Data](http://5stardata.info)) and compatible with the "Pilot Level" requirements of the [Open Data Institutes](http://www.theodi.org) [Open Data Certificate](https://github.com/theodi/open-data-certificate). 
 
 Personally Identifiable Data 
 ----------------------------
