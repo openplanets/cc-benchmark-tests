@@ -80,3 +80,27 @@ Quality
 Guarantees
 ----------
 This data is available experimentally but should be around until July 2014
+
+References
+-------------
+
+- [] Do the data formats use vocabularies?
+- [*] Are there any codes used within the data?
+
+MIME Types are used within the dataset, e.g. text/csv. A list of IANA MIME types is available at http://www.iana.org/assignments/media-types.
+
+The File name field relates to the name of the file within the GovDocs dataset, available at http://digitalcorpora.org/corpora/files. 
+
+Support
+-------
+
+contact: carl@openplanetsfoundation.org
+
+We're currently not supporting a mailing list or forum for discussion of this dataset.
+Problems can be logged at the projects issue page: https://github.com/openplanets/cc-benchmark-tests/issues
+
+Services
+--------
+
+Links to tools for working with this data:t 
+
