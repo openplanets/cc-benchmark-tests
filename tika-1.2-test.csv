@@ -1,0 +1,248 @@
+File Name,Tika Mime Type,GroundTruth Mime Types,Time Taken,Result
+,,,,
+415970.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,79,OK
+629303.txt,text/plain,text/plain; ,68,OK
+018675.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,231,OK
+984205.doc,application/x-tika-msoffice,application/msword; ,65,FAIL
+803127.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,50,OK
+572449.xml,text/html,application/xml; text/xml; ,105,FAIL
+423025.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,59,OK
+048996.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,57,OK
+587860.xml,application/xml,application/xml; text/xml; ,70,OK
+447317.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,316,FAIL
+904789.txt,text/plain,application/x-csv; application/x-excel; application/x-vnd.ms-excel; text/csv; text/tab-separated-values; text/x-anytext; text/x-comma-separated-values; ,67,FAIL
+507857.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,60,OK
+257133.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,63,OK
+353094.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,52,OK
+844922.doc,application/x-tika-msoffice,application/msword; ,43,FAIL
+203473.txt,text/plain,text/plain; ,30,OK
+067263.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,49,OK
+040361.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,77,OK
+208754.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,55,OK
+941389.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,32,OK
+606304.xml,application/xml,application/xml; text/xml; ,82,OK
+768779.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,57,OK
+162660.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,34,FAIL
+715323.log,text/plain,text/plain; ,189,OK
+077669.doc,application/x-tika-msoffice,application/msword; ,88,FAIL
+162567.doc,application/x-tika-msoffice,application/msword; ,58,FAIL
+208001.txt,text/plain,; ,42,FAIL
+315506.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,41,OK
+148265.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,44,OK
+434909.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,80,FAIL
+725744.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,87,OK
+365541.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,41,OK
+406628.txt,text/plain,text/plain; ,65,OK
+997023.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,19,OK
+967962.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,101,FAIL
+182973.txt,message/rfc822,message/rfc822; message/x-rfc2822; ,27,OK
+860489.doc,application/x-tika-msoffice,application/msword; ,25,FAIL
+524066.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,44,OK
+808524.gif,image/gif,image/gif; ,99,OK
+237275.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,54,OK
+573159.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,71,OK
+078130.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,85,FAIL
+482013.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,53,OK
+405075.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,81,OK
+465607.hlp,text/plain,text/plain; ,45,OK
+921782.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,57,FAIL
+609376.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,43,OK
+288441.txt,text/plain,text/plain; ,67,OK
+093214.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,28,FAIL
+846640.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,36,OK
+128103.pdf,application/pdf,,50,FAIL - No mimetype for 128103.pdf [application/pdf]
+418006.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,49,OK
+118481.text,text/plain,text/plain; ,41,OK
+978972.xml,application/xml,application/xml; text/xml; ,112,OK
+281530.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,48,OK
+762482.gif,image/gif,image/gif; ,86,OK
+637702.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,58,FAIL
+870668.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,50,OK
+317675.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,64,OK
+324187.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,23,OK
+600372.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,63,OK
+086819.doc,application/x-tika-msoffice,application/msword; ,32,FAIL
+260905.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,12,OK
+716064.gif,image/gif,image/gif; ,87,OK
+896065.doc,application/x-tika-msoffice,application/msword; ,112,FAIL
+064888.text,text/plain,text/plain; ,36,OK
+054568.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,48,OK
+273715.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,36,FAIL
+151293.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,34,OK
+702081.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,86,OK
+295864.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,37,OK
+099766.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,278,OK
+158738.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,53,OK
+006460.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,56,FAIL
+868791.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,31,OK
+292080.png,image/png,application/x-png; image/png; ,32,OK
+403637.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,26,OK
+609321.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,44,OK
+749144.gif,image/gif,image/gif; ,58,OK
+794568.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,70,FAIL
+175012.gif,image/gif,image/gif; ,66,OK
+062203.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,35,OK
+747899.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,37,FAIL
+431371.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,79,OK
+779633.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,85,OK
+686818.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,48,OK
+657073.gz,application/x-gzip,application/x-compress; application/x-gzip; ,322,OK
+422516.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,83,OK
+522917.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,83,OK
+358095.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,299,OK
+013219.text,text/plain,text/plain; ,23,OK
+121387.text,text/plain,text/plain; ,76,OK
+405287.txt,text/plain,text/plain; ,33,OK
+772427.ps,application/postscript,application/postscript; ,64,OK
+798114.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,64,OK
+783859.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,54,OK
+281227.doc,application/x-tika-msoffice,application/msword; ,299,FAIL
+257825.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,44,FAIL
+449912.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,37,OK
+380578.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,67,OK
+541193.gif,image/gif,image/gif; ,53,OK
+958192.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,20,OK
+527701.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,47,OK
+204947.doc,application/x-tika-msoffice,application/msword; ,63,FAIL
+441330.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,57,OK
+825052.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,60,OK
+787363.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,59,OK
+342541.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,35,OK
+054986.text,text/plain,text/plain; ,33,OK
+799925.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,85,FAIL
+731242.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,17,OK
+908277.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,45,OK
+814891.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,71,OK
+996654.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,59,OK
+189464.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,53,OK
+127450.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,29,OK
+328875.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,28,OK
+429059.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,51,FAIL
+378454.html,text/html,application/xml; text/xml; ,69,FAIL
+832590.html,application/xhtml+xml,application/xhtml+xml; text/xml; ,60,OK
+637292.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,97,OK
+280308.doc,application/x-tika-msoffice,application/msword; ,30,FAIL
+397986.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,27,OK
+657262.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,87,OK
+591230.xml,application/xml,application/xml; text/xml; ,33,OK
+823129.png,image/png,application/x-png; image/png; ,90,OK
+149991.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,64,OK
+584066.txt,text/plain,text/plain; ,335,OK
+382296.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,279,OK
+141699.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,71,FAIL
+214614.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,58,OK
+833678.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,66,OK
+738644.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,81,OK
+573003.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,44,OK
+918941.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,33,OK
+627718.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,39,OK
+066884.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,40,OK
+032156.text,text/plain,text/plain; ,162,OK
+716464.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,48,OK
+494653.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,100,OK
+837228.gif,image/gif,image/gif; ,58,OK
+185360.txt,text/plain,text/plain; ,59,OK
+161615.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,113,OK
+781226.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,293,OK
+327739.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,75,OK
+770081.doc,application/x-tika-msoffice,application/msword; ,71,FAIL
+318518.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,49,OK
+652140.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,44,OK
+273441.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,48,OK
+365718.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,61,FAIL
+063527.text,text/plain,text/plain; ,37,OK
+442079.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,40,FAIL
+398867.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,57,OK
+845809.log,text/plain,text/plain; ,64,OK
+280275.txt,message/rfc822,message/rfc822; message/x-rfc2822; ,35,OK
+742651.txt,text/plain,text/plain; ,56,OK
+614182.doc,application/x-tika-msoffice,application/msword; ,78,FAIL
+359037.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,33,OK
+746389.xml,application/xml,application/xml; text/xml; ,75,OK
+293850.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,60,OK
+612492.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,57,OK
+408751.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,58,OK
+638623.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,42,FAIL
+913000.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,28,OK
+129135.ps,application/postscript,application/postscript; ,64,OK
+986034.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,26,OK
+349783.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,37,OK
+721306.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,52,OK
+337300.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,88,OK
+646508.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,24,FAIL
+675298.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,59,OK
+687279.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,62,FAIL
+916865.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,70,OK
+433641.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,33,OK
+941336.gif,image/gif,image/gif; ,41,OK
+320607.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,37,OK
+922263.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,65,OK
+007405.png,image/png,application/x-png; image/png; ,40,OK
+461952.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,55,OK
+103015.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,22,OK
+426203.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,69,OK
+109576.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,44,FAIL
+889286.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,53,OK
+717049.doc,application/x-tika-msoffice,application/msword; ,289,FAIL
+777611.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,66,OK
+053693.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,33,OK
+941081.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,73,OK
+563563.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,77,OK
+745382.doc,application/x-tika-msoffice,application/msword; ,43,FAIL
+418331.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,77,OK
+166642.txt,text/plain,text/plain; ,96,OK
+860015.doc,application/x-tika-msoffice,application/msword; ,54,FAIL
+131421.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,279,OK
+588840.txt,text/plain,text/plain; ,81,OK
+421018.html,text/plain,text/plain; ,249,OK
+118275.text,text/plain,text/plain; ,47,OK
+732881.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,474,OK
+383748.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,53,OK
+651672.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,288,OK
+894182.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,91,OK
+743219.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,68,OK
+507658.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,42,OK
+296687.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,24,OK
+422498.txt,text/plain,text/plain; ,22,OK
+786580.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,66,FAIL
+933696.doc,application/x-tika-msoffice,application/msword; ,43,FAIL
+123495.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,58,OK
+171334.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,44,OK
+267206.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,43,FAIL
+961803.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,49,OK
+059502.pdf,application/pdf,,54,FAIL - No mimetype for 059502.pdf [application/pdf]
+107221.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,59,OK
+651116.gz,application/x-gzip,application/x-compress; application/x-gzip; ,73,OK
+945668.ps,application/postscript,application/postscript; ,69,OK
+215199.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,39,OK
+922400.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,38,OK
+677763.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,49,FAIL
+497440.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,58,OK
+782226.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,48,FAIL
+954597.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,101,OK
+068224.doc,application/x-tika-msoffice,application/msword; ,91,FAIL
+446214.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,83,OK
+365497.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,56,FAIL
+286271.gif,image/gif,image/gif; ,24,OK
+634420.html,text/plain,text/plain; ,49,OK
+457558.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,100,OK
+801904.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,42,FAIL
+171270.ppt,application/x-tika-msoffice,application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint; ,364,FAIL
+332508.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,381,OK
+630183.xls,application/vnd.ms-excel,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,72,OK
+735363.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,68,OK
+904066.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,30,OK
+178300.txt,text/plain,text/plain; ,67,OK
+256544.pdf,application/pdf,application/pdf; application/x-pdf; text/pdf; text/x-pdf; ,70,OK
+287502.txt,text/plain,text/plain; ,49,OK
+117982.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,271,FAIL
+784329.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,27,FAIL
+269581.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,22,OK
+Summary:,,,,
+Files processed=986306,,,,
+Successfully identified=758549,,,,
+Failed to identify=226133,,,,
+No mime type=1624,,,,
+Errors=0,,,,
+Total time taken=68490229,,,,
+"Map/reduce time = 6hrs, 9mins, 6sec",,,,
