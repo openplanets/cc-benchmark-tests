@@ -1,5 +1,4 @@
 File Name,Tika Mime Type,GroundTruth Mime Types,Time Taken,Result
-,,,,
 415970.html,text/html,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,79,OK
 629303.txt,text/plain,text/plain; ,68,OK
 018675.jpg,image/jpeg,image/jpeg; image/x-pipeg; ,231,OK
@@ -238,11 +237,3 @@ File Name,Tika Mime Type,GroundTruth Mime Types,Time Taken,Result
 117982.html,text/plain,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,271,FAIL
 784329.xls,application/x-tika-msoffice,application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt; ,27,FAIL
 269581.html,application/xhtml+xml,application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml; ,22,OK
-Summary:,,,,
-Files processed=986306,,,,
-Successfully identified=758549,,,,
-Failed to identify=226133,,,,
-No mime type=1624,,,,
-Errors=0,,,,
-Total time taken=68490229,,,,
-"Map/reduce time = 6hrs, 9mins, 6sec",,,,
