@@ -4,350 +4,350 @@
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "79",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "629303.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "68",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "018675.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "231",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "984205.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "65",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "803127.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "50",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "572449.xml",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "105",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "423025.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "048996.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "57",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "587860.xml",
 		"Tika Mime Type": "application/xml",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "70",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "447317.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "316",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "904789.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/x-csv; application/x-excel; application/x-vnd.ms-excel; text/csv; text/tab-separated-values; text/x-anytext; text/x-comma-separated-values;",
 		"Time Taken": "67",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "507857.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "60",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "257133.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "63",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "353094.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "52",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "844922.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "43",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "203473.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "30",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "067263.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "040361.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "77",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "208754.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "55",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "941389.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "32",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "606304.xml",
 		"Tika Mime Type": "application/xml",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "82",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "768779.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "57",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "162660.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "34",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "715323.log",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "189",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "077669.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "88",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "162567.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "58",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "208001.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": ";",
 		"Time Taken": "42",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "315506.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "41",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "148265.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "434909.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "80",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "725744.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "87",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "365541.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "41",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "406628.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "65",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "997023.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "19",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "967962.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "101",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "182973.txt",
 		"Tika Mime Type": "message/rfc822",
 		"GroundTruth Mime Types": "message/rfc822; message/x-rfc2822;",
 		"Time Taken": "27",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "860489.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "25",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "524066.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "808524.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "99",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "237275.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "54",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "573159.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "71",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "078130.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "85",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "482013.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "405075.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "81",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "465607.hlp",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "45",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "921782.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "57",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "609376.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "43",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "288441.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "67",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "093214.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "28",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "846640.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "36",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "128103.pdf",
@@ -361,1113 +361,1113 @@
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "118481.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "41",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "978972.xml",
 		"Tika Mime Type": "application/xml",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "112",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "281530.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "48",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "762482.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "86",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "637702.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "58",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "870668.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "50",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "317675.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "324187.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "23",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "600372.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "63",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "086819.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "32",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "260905.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "12",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "716064.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "87",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "896065.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "112",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "064888.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "36",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "054568.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "48",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "273715.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "36",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "151293.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "34",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "702081.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "86",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "295864.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "37",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "099766.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "278",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "158738.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "006460.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "56",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "868791.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "31",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "292080.png",
 		"Tika Mime Type": "image/png",
 		"GroundTruth Mime Types": "application/x-png; image/png;",
 		"Time Taken": "32",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "403637.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "26",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "609321.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "749144.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "794568.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "70",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "175012.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "66",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "062203.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "35",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "747899.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "37",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "431371.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "79",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "779633.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "85",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "686818.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "48",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "657073.gz",
 		"Tika Mime Type": "application/x-gzip",
 		"GroundTruth Mime Types": "application/x-compress; application/x-gzip;",
 		"Time Taken": "322",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "422516.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "83",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "522917.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "83",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "358095.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "299",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "013219.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "23",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "121387.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "76",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "405287.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "772427.ps",
 		"Tika Mime Type": "application/postscript",
 		"GroundTruth Mime Types": "application/postscript;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "798114.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "783859.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "54",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "281227.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "299",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "257825.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "44",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "449912.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "37",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "380578.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "67",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "541193.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "958192.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "20",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "527701.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "47",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "204947.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "63",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "441330.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "57",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "825052.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "60",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "787363.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "342541.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "35",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "054986.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "799925.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "85",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "731242.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "17",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "908277.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "45",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "814891.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "71",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "996654.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "189464.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "127450.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "29",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "328875.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "28",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "429059.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "51",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "378454.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "69",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "832590.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/xml;",
 		"Time Taken": "60",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "637292.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "97",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "280308.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "30",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "397986.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "27",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "657262.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "87",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "591230.xml",
 		"Tika Mime Type": "application/xml",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "823129.png",
 		"Tika Mime Type": "image/png",
 		"GroundTruth Mime Types": "application/x-png; image/png;",
 		"Time Taken": "90",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "149991.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "584066.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "335",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "382296.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "279",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "141699.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "71",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "214614.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "833678.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "66",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "738644.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "81",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "573003.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "918941.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "627718.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "39",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "066884.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "40",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "032156.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "162",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "716464.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "48",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "494653.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "100",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "837228.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "185360.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "161615.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "113",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "781226.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "293",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "327739.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "75",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "770081.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "71",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "318518.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "652140.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "273441.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "48",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "365718.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "61",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "063527.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "37",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "442079.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "40",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "398867.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "57",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "845809.log",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "280275.txt",
 		"Tika Mime Type": "message/rfc822",
 		"GroundTruth Mime Types": "message/rfc822; message/x-rfc2822;",
 		"Time Taken": "35",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "742651.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "56",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "614182.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "78",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "359037.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "746389.xml",
 		"Tika Mime Type": "application/xml",
 		"GroundTruth Mime Types": "application/xml; text/xml;",
 		"Time Taken": "75",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "293850.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "60",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "612492.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "57",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "408751.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "638623.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "42",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "913000.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "28",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "129135.ps",
 		"Tika Mime Type": "application/postscript",
 		"GroundTruth Mime Types": "application/postscript;",
 		"Time Taken": "64",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "986034.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "26",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "349783.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "37",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "721306.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "52",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "337300.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "88",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "646508.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "24",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "675298.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "687279.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "62",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "916865.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "70",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "433641.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "941336.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "41",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "320607.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "37",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "922263.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "65",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "007405.png",
 		"Tika Mime Type": "image/png",
 		"GroundTruth Mime Types": "application/x-png; image/png;",
 		"Time Taken": "40",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "461952.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "55",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "103015.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "22",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "426203.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "69",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "109576.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "44",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "889286.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "717049.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "289",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "777611.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "66",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "053693.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "33",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "941081.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "73",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "563563.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "77",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "745382.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "43",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "418331.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "77",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "166642.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "96",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "860015.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "54",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "131421.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "279",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "588840.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "81",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "421018.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "249",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "118275.text",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "47",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "732881.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "474",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "383748.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "53",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "651672.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "288",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "894182.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "91",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "743219.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "68",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "507658.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "42",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "296687.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "24",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "422498.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "22",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "786580.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "66",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "933696.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "43",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "123495.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "171334.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "44",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "267206.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "43",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "961803.jpg",
 		"Tika Mime Type": "image/jpeg",
 		"GroundTruth Mime Types": "image/jpeg; image/x-pipeg;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "059502.pdf",
@@ -1481,188 +1481,188 @@
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "59",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "651116.gz",
 		"Tika Mime Type": "application/x-gzip",
 		"GroundTruth Mime Types": "application/x-compress; application/x-gzip;",
 		"Time Taken": "73",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "945668.ps",
 		"Tika Mime Type": "application/postscript",
 		"GroundTruth Mime Types": "application/postscript;",
 		"Time Taken": "69",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "215199.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "39",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "922400.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "38",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "677763.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "49",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "497440.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "58",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "782226.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "48",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "954597.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "101",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "068224.doc",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/msword;",
 		"Time Taken": "91",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "446214.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "83",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "365497.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "56",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "286271.gif",
 		"Tika Mime Type": "image/gif",
 		"GroundTruth Mime Types": "image/gif;",
 		"Time Taken": "24",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "634420.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "457558.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "100",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "801904.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "42",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "171270.ppt",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-powerpoint; application/x-ms-powerpoint; application/x-powerpoint;",
 		"Time Taken": "364",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "332508.html",
 		"Tika Mime Type": "text/html",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "381",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "630183.xls",
 		"Tika Mime Type": "application/vnd.ms-excel",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "72",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "735363.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "68",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "904066.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "30",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "178300.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "67",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "256544.pdf",
 		"Tika Mime Type": "application/pdf",
 		"GroundTruth Mime Types": "application/pdf; application/x-pdf; text/pdf; text/x-pdf;",
 		"Time Taken": "70",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "287502.txt",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "text/plain;",
 		"Time Taken": "49",
-		"Result": "OK"
+		"Success": true
 	},
 	{
 		"File Name": "117982.html",
 		"Tika Mime Type": "text/plain",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "271",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "784329.xls",
 		"Tika Mime Type": "application/x-tika-msoffice",
 		"GroundTruth Mime Types": "application/vnd.ms-excel; application/x-excel; application/x-msexcel; application/x-xlt;",
 		"Time Taken": "27",
-		"Result": "FAIL"
+		"Success": false
 	},
 	{
 		"File Name": "269581.html",
 		"Tika Mime Type": "application/xhtml+xml",
 		"GroundTruth Mime Types": "application/xhtml+xml; text/html; text/x-server-parsed-html; text/x-webviewhtml;",
 		"Time Taken": "22",
-		"Result": "OK"
+		"Success": true
 	}
 ]
