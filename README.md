@@ -9,7 +9,25 @@ Overview
 * title: SCAPE Characterisation Components Benchmarking Data
 * creator-name: SCAPE Project
 * creator-url: http://scape-project.eu
-* release-type: one-off set
+* dataset-url (text/csv): https://raw.github.com/openplanets/cc-benchmark-tests/master/tika-1.2-test.csv
+* dataset-url (application/json): https://raw.github.com/openplanets/cc-benchmark-tests/master/tika-1.2-test.json
+* original format: text/csv
+
+Data Release Type
+-----------------
+
+- [] a one-off release of a single dataset
+- [x] a one-off release of a set of related datasets
+- [] ongoing release of a series of related datasets
+- [] a service or API for accessing open data
+
+Dataset Type 
+--------------------
+
+- [] human-readable documents
+- [x] statistical data, such as counts, averages and percentages
+- [] geographic information, such as points and boundaries
+- [] other kinds of structured data
 
 Description
 -----------
