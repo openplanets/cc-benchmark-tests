@@ -81,13 +81,15 @@ Guarantees
 ----------
 This data is available experimentally but should be around until July 2014
 
-Documentation
+References
 -------------
 
 - [] Do the data formats use vocabularies?
-- [] Are there any codes used within the data?
+- [*] Are there any codes used within the data?
 
-code documentation url:
+MIME Types used within the dataset CSV file, a list of IANA MIME types is available here: http://www.iana.org/assignments/media-types.
+
+The File name field relate to the name of the file within the GovDocs dataset, available here: http://digitalcorpora.org/corpora/files. 
 
 Support
 -------
@@ -100,5 +102,5 @@ Problems can be logged at the projects issue page: https://github.com/openplanet
 Services
 --------
 
-Links to tools for working with this data:
+Links to tools for working with this data:t 
 
