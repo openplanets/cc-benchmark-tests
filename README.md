@@ -87,9 +87,9 @@ References
 - [] Do the data formats use vocabularies?
 - [*] Are there any codes used within the data?
 
-MIME Types used within the dataset CSV file, a list of IANA MIME types is available here: http://www.iana.org/assignments/media-types.
+MIME Types are used within the dataset, e.g. text/csv. A list of IANA MIME types is available at http://www.iana.org/assignments/media-types.
 
-The File name field relate to the name of the file within the GovDocs dataset, available here: http://digitalcorpora.org/corpora/files. 
+The File name field relates to the name of the file within the GovDocs dataset, available at http://digitalcorpora.org/corpora/files. 
 
 Support
 -------
