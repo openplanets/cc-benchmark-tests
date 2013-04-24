@@ -51,6 +51,15 @@ Personally Identifiable Data
 
 This dataset does not contain any personally identifiable data other than that relating to the curators, maintainers and publishers of the dataset and related information.
 
+Using the Data
+--------------
+The CSV (text/csv) file can be opened in Excel and other spreadsheet applications.
+
+Both CSV and JSON are machine readable formats and more information about each can be found at the following locations:
+
+CSV: http://en.wikipedia.org/wiki/Comma-separated_values 
+JSON: http://en.wikipedia.org/wiki/JSON
+
 Findability
 -----------
 
