@@ -14,7 +14,7 @@ Overview
 Description
 -----------
 
-A record of Tika identification results and benchmark timing, tested on the GovDocs corpora.
+A record of Tika 1.2 identification results and benchmark timing, tested on the GovDocs corpora.
 The data is a CSV file, each record consists of five fields:
 
 1. the name of the input file
@@ -33,3 +33,23 @@ Personally Identifiable Data
 
 This dataset does not contain any personally identifiable data other than that relating to the curators, maintainers and publishers of the dataset and related information.
 
+Findability
+-----------
+
+- [] Data can be found within 3 clicks of the organisation's home page
+- [] Is the data listed somewhere, alongside data from the wider sector
+
+Applicability
+-------------
+
+This dataset does not contain any time sensitive information
+
+Quality
+-------
+
+* Issues : https://github.com/openplanets/cc-benchmark-tests/issues
+* Policy : 
+
+Guarantees
+----------
+This data is available experimentally but should be around until July 2014
