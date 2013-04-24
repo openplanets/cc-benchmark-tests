@@ -80,3 +80,25 @@ Quality
 Guarantees
 ----------
 This data is available experimentally but should be around until July 2014
+
+Documentation
+-------------
+
+- [] Do the data formats use vocabularies?
+- [] Are there any codes used within the data?
+
+code documentation url:
+
+Support
+-------
+
+contact: carl@openplanetsfoundation.org
+
+We're currently not supporting a mailing list or forum for discussion of this dataset.
+Problems can be logged at the projects issue page: https://github.com/openplanets/cc-benchmark-tests/issues
+
+Services
+--------
+
+Links to tools for working with this data:
+
