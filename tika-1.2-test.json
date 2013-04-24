@@ -1,4 +1,9 @@
-[
+{
+    "title": "SCAPE Characterisation Components Benchmarking Data",
+    "description": "Holds machine readable test data for the initial SCAPE Characterisation Components",
+    "licence": "http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB",
+    "copyright": "Scape Project",
+    "data": [
 	{
 		"File Name": "415970.html",
 		"Tika Mime Type": "text/html",
@@ -1665,4 +1670,5 @@
 		"Time Taken": "22",
 		"Success": true
 	}
-]
+    ]
+}
