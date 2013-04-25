@@ -15,7 +15,7 @@
 </div>
 <script>
 var chart = d3.parsets()
-    .dimensions(["tika", "truth", "result",]);
+    .dimensions(["Tika Result", "Ground Truth?", "Scan Result", "Time Frame", ]);
 
 var vis = d3.select("#vis").append("svg")
     .attr("width", chart.width())
