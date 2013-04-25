@@ -8,10 +8,33 @@
 <script src="d3.v2.min.js"></script>
 <script src="d3.parsets.js"></script>
 <script src="highlight.min.js"></script>
+<div align="center">
+<div style="width: 1000px;">
+<h1>SCAPE Characterisation Components Benchmarking Data<h1>
+<h2>Parallel Sets Visualistion</h2>
+<p>This page uses the recently published SCAPE Characterisation Components Benchmarking Data Open Data to generate a parallel sets visualisation, there are four items of data shown on this interactive visualisation.</p>
+<ul style="list-style-type: none;">
+<li><b>Tika Result</b>: The Mime-Type that apache tika clasified a file as</li>
+<li><b>Ground Truth?</b>: The apparent ground truth supplied with the file.</li>
+<li><b>Scan Result</b>: If the result matched</li>
+<li><b>Time Taken</b>: Time taken for the scan (units unknown)</li>
+</ul>
+<p>The original data is available on the OPF Github <a href="https://github.com/openplanets/cc-benchmark-tests">here</a> and is available as Open Data. This visualisation and the dataset manipulation code can be found under the <a href="https://github.com/openplanets/cc-benchmark-tests/tree/visulisations">Visualisations Tree</a> of the same GitHub Repositoy and is available under a Creative Commons CC-BY-SA license</p>
 <div id="vis"><noscript><img src="parsets.png"></noscript></div>
 <div class="options">
   <span class="curves"><label for="curved"><input type="checkbox" id="curved" onchange="curves.call(this)"> Curves</label></span>
 <span><label for="icicle" style="font-style: italic"><input type="checkbox" id="icicle">Icicle Plot</label>
+</div>
+<footer id="footer" class="footer" style="width: 100%; color: black; border-top: 1px solid white; text-align: right; margin-top:40px;">
+        <p style="display: inline-block; font-size: 0.75em; color: black;"><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">The Results Evaluation Framework Data</span> by
+<a style="color: black;" xmlns:cc="http://creativecommons.org/ns#" href="http://www.openplanetsfoundation.org" property="cc:attributionName" rel="cc:attributionURL">The Open Planets Foundation</a>
+ /
+<a style="color: black;" xmlns:cc="http://creativecommons.org/ns#" href="http://www.southampton.ac.uk" property="cc:attributionName" rel="cc:attributionURL">Univeristy of Southampton</a>
+ /
+<a style="color: black;" xmlns:cc="http://creativecommons.org/ns#" href="http://www.ecs.soton.ac.uk/people/dt2" property="cc:attributionName" rel="cc:attributionURL">David Tarrant</a><br/>Licensed under a <a style="color: black;" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB"><img style="margin-top: 2px; margin-right: 16px; margin-left: 8px;" alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+</footer>
+</div>
 </div>
 <script>
 var chart = d3.parsets()
