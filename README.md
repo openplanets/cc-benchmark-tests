@@ -32,12 +32,27 @@ Dataset Type
 Description
 -----------
 
-A record of Tika 1.2 identification results and benchmark timing, tested on the GovDocs corpora.
-The data is a CSV file, each record consists of five fields:
+A record of Tika identification results and benchmark timing, tested on the GovDocs corpora.
+There are 8 result files, two for each of the four versions of Tika that were evaluated, 1.0, 1.1, 1.2 and 1.3.
+
+The following four files include the evaluation results obtained when calling Tika using a file input stream only, i.e. no file name
+  Tika_1_0.csv - Evaluation results when using Tika v1.0 
+  Tika_1_1.csv - Evaluation results when using Tika v1.1 
+  Tika_1_2.csv - Evaluation results when using Tika v1.2 
+  Tika_1_3.csv - Evaluation results when using Tika v1.3 
+
+The following four files include the result when calling Tika using 
+a file input stream and also a file name
+  Tika_1_0_with_filename.csv - Evaluation results when using Tika v1.0 
+  Tika_1_0_with_filename.csv - Evaluation results when using Tika v1.1 
+  Tika_1_0_with_filename.csv - Evaluation results when using Tika v1.2 
+  Tika_1_0_with_filename.csv - Evaluation results when using Tika v1.3 
+
+The data is in CSV format, each record consists of five fields:
 
 1. the name of the input file
 2. the MIME type returned by Tika
-3. the MIME type(s) from the GovDocs groundtruth
+3. the MIME type(s) from the GovDocs groundtruth (separated with semi colons)
 4. time in milliseconds taken to perform Tika identification
 5. boolean OK/FAIL indicating whether Tika successfully identified the file type
 
