@@ -1,0 +1,25 @@
+Tika Evaluator Tool
+===================
+
+The Tika Evaluator is a tool for carrying out evaluation of the Apache Tika file identification tool. It was developed as part of the SCAPE Characterisation Components work package to generate benchmarking data for year 2 review.
+
+Overview
+========
+
+The Tika Evaluator consists of a number of modules that, when combined, can provide end-to-end evaluation of a specific version of Tika.
+
+The core of the tool is a set of executable classes (containing a main() method) that call the Apache Tika detect() method. These classes enable the evaluation to be carried out in a  :-
+
+a) non Hadoop environment
+b) a Hadoop standalone or pseudo-distributed environment
+c) a Hadoop distributed environment
+
+The output from this is a csv file, TikaResults.csv, containing a filename, the file mimetype (as identified by Tika) and the time taken (in milliseconds) to make the call to the Tika detect() method.
+
+In addition to these core classes there are a couple of additional modules :-
+
+MimeTypeMapper
+This will generate a mime type mapping i.e. a map consisting of a filename and a list of valid mime types for that file.   
+
+ResultsAnalyser
+This takes the output from the evaluations, TikaResults.csv, and compares it to a set of ground truths. The output is a report file in CSV format that includes the filename, the Tika mime type, the ground truth mime type(s), the time taken to carry out the identification (in milliseconds) and an outcome - OK if Tika correctly identified the mime type and FAIL if the Tika mime type does not match the ground truth mime type(s).
